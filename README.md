@@ -5,6 +5,6 @@ Chen, M., Wilson, G. P. 2015. A multivariate approach to infer locomotor modes i
 
 -----------------
 
-The article and related data can be accessed at [Cambridge University Press](https://www.cambridge.org/core/journals/paleobiology/article/multivariate-approach-to-infer-locomotor-modes-in-mesozoic-mammals/C76D23D1DFC4F42A97839FC679957ADB)
+The article and related data can be accessed at [Cambridge University Press](https://www.cambridge.org/core/journals/paleobiology/article/multivariate-approach-to-infer-locomotor-modes-in-mesozoic-mammals/C76D23D1DFC4F42A97839FC679957ADB).
 
 If you have any questions, please contact me at meng.chen03@gmail.com.
