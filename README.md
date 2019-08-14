@@ -1,4 +1,4 @@
-### Code Repository for
+### Code repository for
 -----------------
 
 Chen, M., Wilson, G. P. 2015. A multivariate approach to infer locomotor modes in Mesozoic mammals. Paleobiology 41(2):280-312.
