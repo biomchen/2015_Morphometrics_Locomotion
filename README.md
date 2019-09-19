@@ -1,8 +1,12 @@
 ### About
 -----------------
+
 This is the code repository of my PhD dissertation Chapter 2
+
 -----------------
+
 ### A multivariate approach to infer locomotor modes in Mesozoic mammals
+
 -----------------
 
 **Chen, M.**, Wilson, G. P. 2015. A multivariate approach to infer locomotor modes in Mesozoic mammals. ***Paleobiology*** 41(2):280-312.
