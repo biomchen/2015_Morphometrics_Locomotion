@@ -1,6 +1,4 @@
 ### About
------------------
-
 This is the code repository of my PhD dissertation Chapter 2
 
 -----------------
