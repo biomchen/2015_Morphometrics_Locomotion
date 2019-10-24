@@ -116,7 +116,7 @@ centroid2<-matrix(c(ar.ld1,ar.ld3,f.ld1,f.ld3,g.ld1,g.ld3,
 # colors
 cols=c(rep("firebrick1",30), # Arboreal
        rep("grey36",12),     # Fossorial
-	   rep("dodgerblue3",3), # Gliding
+       rep("dodgerblue3",3), # Gliding
        rep("magenta",5),     # Saltatorial
        rep("green3",9),      # Scansorial
        rep("deepskyblue",9), # Semi-aquatic
